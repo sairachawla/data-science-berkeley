@@ -1,9 +1,9 @@
 # Data Science @ UC Berkeley 
-Programming projects from my undergraduate career at UC Berkeley. further description
+Repo containing programming projects from my undergraduate career at UC Berkeley. 
 
 ## Contents
 
-### Structure and Interpretation of Computer Programs
-#### Hog: description 
+### * Structure and Interpretation of Computer Programs
+####  * Hog: description 
 #### Ants: description
 #### Scheme: description
