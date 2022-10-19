@@ -1,6 +1,8 @@
 # Data Science @ UC Berkeley 
 Repo containing programming projects from my undergraduate career at UC Berkeley. 
 
+## **UNDERGOING CONSTRUCTION**
+
 ## Contents
 
 #### Structure and Interpretation of Computer Programs
