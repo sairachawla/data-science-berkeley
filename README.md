@@ -1,2 +1,6 @@
-# data-science-berkeley
-Programming projects from my undergraduate career at UC Berkeley
+# Data Science @ UC Berkeley 
+Programming projects from my undergraduate career at UC Berkeley. further description
+
+## Contents
+
+#### Hog: description 
