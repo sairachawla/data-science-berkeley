@@ -1,7 +1,7 @@
 # Data Science @ UC Berkeley 
 Repo containing programming projects from my undergraduate career at UC Berkeley. 
 
-## **UNDERGOING CONSTRUCTION**
+## **UNDERGOING CONSTRUCTION
 
 ## Contents
 
