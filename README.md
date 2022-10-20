@@ -19,3 +19,5 @@ Repo containing programming projects from my undergraduate career at UC Berkeley
 
 - [Reinforcement](https://github.com/sairachawla/data-science-berkeley/tree/main/reinforcement): In this project, I will implement value iteration and Q-learning. I will test my agents first on Gridworld (from class), then apply them to a simulated robot controller (Crawler) and Pacman.
 
+- [Tracking](https://github.com/sairachawla/data-science-berkeley/tree/main/tracking): In this project, I will design Pacman agents that use sensors to locate and eat invisible ghosts. I’ll advance from locating single, stationary ghosts to hunting packs of multiple moving ghosts with ruthless efficiency.
+
