@@ -14,5 +14,8 @@ Repo containing programming projects from my undergraduate career at UC Berkeley
 
 #### Artificial Intelligence: 
 - [Search](https://github.com/sairachawla/data-science-berkeley/tree/main/search): In this project, my Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I will build general search algorithms and apply them to Pacman scenarios.
+
 - [Multiagent](https://github.com/sairachawla/data-science-berkeley/tree/main/multiagent): In this project, I will design agents for the classic version of Pacman, including ghosts. Along the way, I will implement both minimax and expectimax search and try my hand at evaluation function design.
+
 - [Reinforcement](https://github.com/sairachawla/data-science-berkeley/tree/main/reinforcement): In this project, I will implement value iteration and Q-learning. I will test my agents first on Gridworld (from class), then apply them to a simulated robot controller (Crawler) and Pacman.
+
