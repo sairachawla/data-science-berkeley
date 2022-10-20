@@ -21,3 +21,4 @@ Repo containing programming projects from my undergraduate career at UC Berkeley
 
 - [Tracking](https://github.com/sairachawla/data-science-berkeley/tree/main/tracking): In this project, I will design Pacman agents that use sensors to locate and eat invisible ghosts. I’ll advance from locating single, stationary ghosts to hunting packs of multiple moving ghosts with ruthless efficiency.
 
+- [MachineLearning](https://github.com/sairachawla/data-science-berkeley/tree/main/machinelearning): In this project, I will build a neural network to classify digits, and more!
